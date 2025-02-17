@@ -1,0 +1,13 @@
+streamlit
+openai
+pandas
+numpy
+sqlalchemy
+sqlite3  # Remove if using another database
+requests
+langchain
+ollama
+transformers
+torch
+mysql-connector-python  # For MySQL
+psycopg2                # For PostgreSQL
