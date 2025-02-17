@@ -44,9 +44,9 @@ streamlit run app.py
 3. View real-time responses on the web interface.
 
 ## Screenshots
-![Screenshot 1](images/Screenshot 2025-02-17 224353.png)
-![Screenshot 2](images/Screenshot 2025-02-17 225059.png)
-![Screenshot 3](images/Screenshot 2025-02-17 225806.png)
+![Screenshot 1](images/Flow.png)
+![Screenshot 2](images/Talk.png)
+![Screenshot 3](images/UI.png)
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
